@@ -1,5 +1,4 @@
 # Chest X-rays Labeled by 13 Classes - 150 studies
-# Chest X-rays, DICOM Data and Segmentation
 This dataset consists of **150** medical studies with chest X-ray (CXR) images primarily focused on the detection of lung diseases, including COVID-19 cases and pneumonias. The collection includes frontal chest radiographs and chest radiography scans in **DICOM** format. The dataset is ideal for medical research, disease detection, and classification tasks, particularly for developing computer-aided diagnosis and machine learning models - **[Get the data](https://unidata.pro/datasets/chest-x-ray-image-dicom/?utm_source=github&utm_medium=cpc&utm_campaign=chest-x-rays)**
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F22059654%2Fad48f44bb86390ce88ec0b121a0b5845%2FFrame%20130.png?generation=1726474854075866&alt=media)
